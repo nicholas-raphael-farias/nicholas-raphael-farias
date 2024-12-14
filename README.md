@@ -16,5 +16,5 @@
 <h2> I'm currently ...</h2>
 
 - 🔭 working on my aws certification
-- 🤔 learning about ADHD to understand me better
+- 🤔 learning about ADHD, my experience & in more detail how my brain works
 - 📚 Reading: **"Node.js Design Patterns"**
